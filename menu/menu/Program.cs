@@ -1,4 +1,4 @@
-using menu.Components;
+using Menu.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
